@@ -1,0 +1,1 @@
+# samsteve-integrated-resources.ng
